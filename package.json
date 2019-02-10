@@ -11,6 +11,7 @@
     "react-native": "0.58.4"
   },
   "devDependencies": {
+    "eslint-plugin-react": "^7.12.4",
     "babel-core": "^7.0.0-bridge.0",
     "babel-jest": "24.1.0",
     "jest": "24.1.0",
