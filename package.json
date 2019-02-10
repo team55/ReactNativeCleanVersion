@@ -8,12 +8,13 @@
   },
   "dependencies": {
     "react": "16.6.3",
-    "react-native": "0.58.4"
+    "react-native": "0.58.4",
+    "react-native-fcm": "^16.2.4"
   },
   "devDependencies": {
-    "eslint-plugin-react": "^7.12.4",
     "babel-core": "^7.0.0-bridge.0",
     "babel-jest": "24.1.0",
+    "eslint-plugin-react": "^7.12.4",
     "jest": "24.1.0",
     "metro-react-native-babel-preset": "0.51.1",
     "react-test-renderer": "16.6.3"
